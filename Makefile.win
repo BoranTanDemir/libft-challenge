@@ -1,5 +1,4 @@
 # Project: libft
-# Makefile created by Embarcadero Dev-C++ 6.3
 
 CPP      = g++.exe
 CC       = gcc.exe
